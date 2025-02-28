@@ -1,4 +1,4 @@
-# CarDekho Price Prediction 🚗📈
+# CarDekho Price Prediction
 
 CarDekho launches a vehicle shopping mall in Jaipur, showcasing the dynamic and ever-changing landscape of the used car market in India. This project aims to address the challenge of accurately pricing used cars using a Machine Learning model trained on real-world data.
 
