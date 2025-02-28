@@ -95,7 +95,7 @@ Hi! I'm Ajay Malik, a Data Analytics Enthusiast with expertise in Python, Machin
 
 ## 📬 Feedback
 
-Have suggestions or feedback? Open an issue or reach out via [email@example.com](mailto:email@example.com).
+Have suggestions or feedback? Open an issue or reach out via ajaymalik021@gmail.com.
 
 ---
 
